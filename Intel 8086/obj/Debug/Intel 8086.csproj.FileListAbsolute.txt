@@ -1,0 +1,20 @@
+C:\Users\Rox\Desktop\Arhitektura-systemuw\Intel 8086\bin\Debug\Intel 8086.exe.config
+C:\Users\Rox\Desktop\Arhitektura-systemuw\Intel 8086\bin\Debug\Intel 8086.exe
+C:\Users\Rox\Desktop\Arhitektura-systemuw\Intel 8086\bin\Debug\Intel 8086.pdb
+C:\Users\Rox\Desktop\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.csproj.AssemblyReference.cache
+C:\Users\Rox\Desktop\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel_8086.Form1.resources
+C:\Users\Rox\Desktop\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel_8086.Properties.Resources.resources
+C:\Users\Rox\Desktop\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.csproj.GenerateResource.cache
+C:\Users\Rox\Desktop\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.csproj.CoreCompileInputs.cache
+C:\Users\Rox\Desktop\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.exe
+C:\Users\Rox\Desktop\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.pdb
+D:\Pobrane\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\bin\Debug\Intel 8086.exe.config
+D:\Pobrane\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\bin\Debug\Intel 8086.exe
+D:\Pobrane\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\bin\Debug\Intel 8086.pdb
+D:\Pobrane\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.csproj.AssemblyReference.cache
+D:\Pobrane\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel_8086.Form1.resources
+D:\Pobrane\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel_8086.Properties.Resources.resources
+D:\Pobrane\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.csproj.GenerateResource.cache
+D:\Pobrane\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.csproj.CoreCompileInputs.cache
+D:\Pobrane\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.exe
+D:\Pobrane\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.pdb
